@@ -1,4 +1,4 @@
 <Solution>
-  <Project Path="random/random.csproj" Id="6a56d7bc-bffa-4791-9582-8f4ac17a6517" />
+  <Project Path="random/deneme.csproj" Id="6a56d7bc-bffa-4791-9582-8f4ac17a6517" />
   <Project Path="ShapeShifter/ShapeShifter.csproj" Id="8d64c252-c02a-4022-b47d-7d61725552ff" />
 </Solution>
